@@ -1,44 +1,34 @@
 
 <html> 
-<HEAD> 
+  
 <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8"> 
   
-</HEAD> 
+ 
  
 <BODY> 
  
   <H1> Hui GAO  (高辉)</H1> 
 <p style="float: left; margin-bottom:
 10px"><br><img src="gh1.jpeg" style="margin-bottom: 25px; margin-right: 25px; margin-left: 15px;"  width="100">
- 
-
 <font size="2.6px">
    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
   Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
 and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
-in the number theory group.   
-<br />
- <br /> 
+in the number theory group.   <br />
  
  <b>Research interests</b>: 
-Algebraic number theory. 
-<br />In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  
-<br />
-<br />
+Algebraic number theory. <br />
+In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  <br />
  
 <b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com <br />
-        (university email)   gaoh AT sustech DOT edu DOT cn 
-<br />
+        (university email)   gaoh AT sustech DOT edu DOT cn <br />
 <br />
 <b>Contact</b>: Department of Mathematics,  Huiyuan Building 3, <br /> 
  Southern University of Science and Technology,    <br />         
 Nanshan, Shenzhen, 518055 , Guangdong, China.<br />
- <br />
- 
+ <br /> 
  Brief CV       <br />    
-2019.9--    (tenure-track) assistant professor, SUSTech</li>
-<br />
-</li>
+2019.9--    (tenure-track) assistant professor, SUSTech<br />
 2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)   <br />       
  2013.7--2016.6. Postdoc fellow at BICMR, Peking University (mentor:  <a href="http://bicmr.pku.edu.cn/~ruochuan"  title="Ruochuan Liu" rel="nofollow">Ruochuan Liu</a>)  <br />       
 2007.9--2013.5. PhD of Mathematics, Purdue University (advisor:<a href="http://www.math.purdue.edu/~tongliu/" title="Tong Liu" rel="nofollow"> Tong Liu</a>)  <br />       
@@ -54,7 +44,7 @@ arXiv:  <a href="https://arxiv.org/a/gao_h_2.html"  target="_blank" rel="nofollo
  <a href="https://sites.google.com/site/huigaomath/home/erratacombined" target="_blank">Errata for published papers</a> 
  <br />
 <br />
- 
+
 <table width="850"  border="1" cellpadding="6" cellspacing="2" style="line-height:inherit;background-color:transparent;font-size:13.3333px;border-collapse:collapse">
 <colgroup>
 <col />
@@ -62,7 +52,6 @@ arXiv:  <a href="https://arxiv.org/a/gao_h_2.html"  target="_blank" rel="nofollo
 <col /></colgroup>
 <tbody>
 
- 
 
 <tr>
  <td> Breuil-Kisin modules and integral p-adic Hodge theory <br />
