@@ -7,22 +7,14 @@
  
   <H1> Hui GAO  (高辉)</H1> 
   <img align="left" src="gh1.jpeg" width="100">
-<font size="2.6px">    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
-  Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
-and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
-in the number theory group.  
+<font size="2.6px">    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />  Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> in the number theory group.  
  
  <b>Research interests</b>: 
-Algebraic number theory.
-In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  
+Algebraic number theory. <br /> In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  
  
-<b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com 
-        (university email)   gaoh AT sustech DOT edu DOT cn 
+<b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com   <br />   (university email)   gaoh AT sustech DOT edu DOT cn 
 
-<b>Contact</b>: Department of Mathematics,  Huiyuan Building 3, 
- Southern University of Science and Technology,            
-Nanshan, Shenzhen, 518055 , Guangdong, China.
- <br /> 
+<b>Contact</b>: Department of Mathematics,  Huiyuan Building 3,  <br /> Southern University of Science and Technology,     <br /> Nanshan, Shenzhen, 518055 , Guangdong, China.  <br /> 
  Brief CV      
 2019.9--    (tenure-track) assistant professor, SUSTech
 2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)       
