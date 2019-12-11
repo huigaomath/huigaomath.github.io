@@ -11,34 +11,32 @@
   <H1> Hui GAO  (高辉)</H1> 
 <p style="float: left; margin-bottom:
 10px"><br><img src="gh1.jpeg" style="margin-bottom: 25px; margin-right: 25px; margin-left: 15px;"  width="100">
-<p>
+</p>
 
 <font size="2.6px">
    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
   Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
 and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
 in the number theory group.   
- 
- 
-</p>
 </p>
 
- </div>
+
+
  <b>Research interests</b>: 
 Algebraic number theory. 
 <br />In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  
 </p>
-</p>
+
  
 <b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com <br />
         (university email)   gaoh AT sustech DOT edu DOT cn 
-
 </p>
+
 <b>Contact</b>: Department of Mathematics,  Huiyuan Building 3, <br /> 
  Southern University of Science and Technology,    <br />         
 Nanshan, Shenzhen, 518055 , Guangdong, China.
-
  </p>
+ 
  Brief CV       <br />    
 2019.9--    (tenure-track) assistant professor, SUSTech</li>
 <br />
@@ -46,13 +44,9 @@ Nanshan, Shenzhen, 518055 , Guangdong, China.
 2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)   <br />       
  2013.7--2016.6. Postdoc fellow at BICMR, Peking University (mentor:  <a href="http://bicmr.pku.edu.cn/~ruochuan"  title="Ruochuan Liu" rel="nofollow">Ruochuan Liu</a>)  <br />       
 2007.9--2013.5. PhD of Mathematics, Purdue University (advisor:<a href="http://www.math.purdue.edu/~tongliu/" title="Tong Liu" rel="nofollow"> Tong Liu</a>)  <br />       
-2003.9--2007.6. BS of Mathematics, Nankai University</li>
+2003.9--2007.6. BS of Mathematics, Nankai University <br />
 
-<br />
 
- </p>
- </p>
- </p>
  <font size="4"><font style="background-color:rgb(207,226,243)"> Publications and Preprints </font></font></li><br />
 MathSciNet:  <a href="http://www.ams.org/mathscinet/search/author.html?mrauthid=1079735" rel="nofollow">author profile page</a>  <br />
  ORCID: <a href="https://orcid.org/0000-0001-9731-592X" target="_blank" rel="nofollow"> 0000-0001-9731-592X</a>    <br />
