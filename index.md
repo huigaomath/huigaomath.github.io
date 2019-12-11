@@ -4,10 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8"> 
   
 </HEAD> 
-</p>
+ 
 <BODY> 
-</p>
-</p> 
+ 
   <H1> Hui GAO  (高辉)</H1> 
 <p style="float: left; margin-bottom:
 10px"><br><img src="gh1.jpeg" style="margin-bottom: 25px; margin-right: 25px; margin-left: 15px;"  width="100">
