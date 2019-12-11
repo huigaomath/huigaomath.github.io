@@ -18,7 +18,8 @@
   Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
 and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
 in the number theory group.   
-</p>
+<br />
+  <br />
 
 
 
