@@ -40,7 +40,7 @@ Nanshan, Shenzhen, 518055 , Guangdong, China.
 
  </p>
  Brief CV       <br />    
-2019.9--             (tenure-track) assistant professor, SUSTech</li>
+2019.9--    (tenure-track) assistant professor, SUSTech</li>
 <br />
 </li>
 2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)   <br />       
