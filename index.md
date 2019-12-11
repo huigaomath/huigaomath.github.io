@@ -3,15 +3,11 @@
   
 <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8"> 
   
- 
- 
-<BODY> 
+  
  
   <H1> Hui GAO  (高辉)</H1> 
-<p style="float: left; margin-bottom:
-10px"><br><img src="gh1.jpeg" style="margin-bottom: 25px; margin-right: 25px; margin-left: 15px;"  width="100">
-<font size="2.6px">
-   I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
+  <img align="left" src="gh1.jpeg" width="100">
+<font size="2.6px">    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
   Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
 and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
 in the number theory group.   <br />
@@ -168,8 +164,7 @@ Spring 2017, Univ. of Helsinki,  <a href="https://wiki.helsinki.fi/pages/viewpag
 
 <a href="http://arxiv.org/abs/1505.02664"   rel="nofollow">***</a>  <br />
 
- 
-</BODY> 
+  
  </font>
 </html> 
  
