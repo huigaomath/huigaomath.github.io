@@ -10,25 +10,25 @@
 <font size="2.6px">    I am  an assistant professor in  SUSTech (in Shenzhen, China). <br />
   Currently we have <a href="http://math.sustc.edu.cn/people_all/HU%20Yong.html?lang=en" target="_blank" rel="nofollow">Yong Hu</a> 
 and <a href="http://math.sustc.edu.cn/people_all/QIU%20Yannan.html?lang=en" target="_blank" rel="nofollow">Yannan Qiu</a> 
-in the number theory group.   <br />
+in the number theory group.  
  
  <b>Research interests</b>: 
-Algebraic number theory. <br />
-In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  <br />
+Algebraic number theory.
+In particular: p-adic Galois representations,  p-adic Hodge theory, and p-adic  Langlands program.  
  
-<b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com <br />
-        (university email)   gaoh AT sustech DOT edu DOT cn <br />
-<br />
-<b>Contact</b>: Department of Mathematics,  Huiyuan Building 3, <br /> 
- Southern University of Science and Technology,    <br />         
-Nanshan, Shenzhen, 518055 , Guangdong, China.<br />
+<b>Email</b>: (permanent email)  mathnature  AT  gmail   DOT com 
+        (university email)   gaoh AT sustech DOT edu DOT cn 
+
+<b>Contact</b>: Department of Mathematics,  Huiyuan Building 3, 
+ Southern University of Science and Technology,            
+Nanshan, Shenzhen, 518055 , Guangdong, China.
  <br /> 
- Brief CV       <br />    
-2019.9--    (tenure-track) assistant professor, SUSTech<br />
-2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)   <br />       
- 2013.7--2016.6. Postdoc fellow at BICMR, Peking University (mentor:  <a href="http://bicmr.pku.edu.cn/~ruochuan"  title="Ruochuan Liu" rel="nofollow">Ruochuan Liu</a>)  <br />       
-2007.9--2013.5. PhD of Mathematics, Purdue University (advisor:<a href="http://www.math.purdue.edu/~tongliu/" title="Tong Liu" rel="nofollow"> Tong Liu</a>)  <br />       
-2003.9--2007.6. BS of Mathematics, Nankai University <br />
+ Brief CV      
+2019.9--    (tenure-track) assistant professor, SUSTech
+2016.9--2019.8. Postdoc fellow at University of Helsinki (mentor: <a href="https://wiki.helsinki.fi/display/mathstatHenkilokunta/Vilonen,+Kari" rel="nofollow">Kari Vilonen</a>)       
+ 2013.7--2016.6. Postdoc fellow at BICMR, Peking University (mentor:  <a href="http://bicmr.pku.edu.cn/~ruochuan"  title="Ruochuan Liu" rel="nofollow">Ruochuan Liu</a>)    
+2007.9--2013.5. PhD of Mathematics, Purdue University (advisor:<a href="http://www.math.purdue.edu/~tongliu/" title="Tong Liu" rel="nofollow"> Tong Liu</a>)      
+2003.9--2007.6. BS of Mathematics, Nankai University 
 <br />
 
  <font size="4"><font style="background-color:rgb(207,226,243)"> Publications and Preprints </font></font></li><br />
