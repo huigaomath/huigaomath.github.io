@@ -43,17 +43,17 @@ Nanshan, Shenzhen, 518055 , Guangdong, China.<br />
  2013.7--2016.6. Postdoc fellow at BICMR, Peking University (mentor:  <a href="http://bicmr.pku.edu.cn/~ruochuan"  title="Ruochuan Liu" rel="nofollow">Ruochuan Liu</a>)  <br />       
 2007.9--2013.5. PhD of Mathematics, Purdue University (advisor:<a href="http://www.math.purdue.edu/~tongliu/" title="Tong Liu" rel="nofollow"> Tong Liu</a>)  <br />       
 2003.9--2007.6. BS of Mathematics, Nankai University <br />
-
+<br />
 
  <font size="4"><font style="background-color:rgb(207,226,243)"> Publications and Preprints </font></font></li><br />
 MathSciNet:  <a href="http://www.ams.org/mathscinet/search/author.html?mrauthid=1079735" rel="nofollow">author profile page</a>  <br />
  ORCID: <a href="https://orcid.org/0000-0001-9731-592X" target="_blank" rel="nofollow"> 0000-0001-9731-592X</a>    <br />
 arXiv:  <a href="https://arxiv.org/a/gao_h_2.html"  target="_blank" rel="nofollow"> author identifier: gao_h_2 </a>  <br />
-  </p>
+ <br />
 
  <a href="https://sites.google.com/site/huigaomath/home/erratacombined" target="_blank">Errata for published papers</a> 
- </p>
-
+ <br />
+<br />
  
 <table width="850"  border="1" cellpadding="6" cellspacing="2" style="line-height:inherit;background-color:transparent;font-size:13.3333px;border-collapse:collapse">
 <colgroup>
@@ -163,25 +163,19 @@ arXiv:  <a href="https://arxiv.org/a/gao_h_2.html"  target="_blank" rel="nofollo
 </table>
 <br />
 
- </p>
- </p>
-  </p>
-  </p>
+  <br />
 
 <a href="http://arxiv.org/abs/1505.02664" title="arXiv:1505.02664" rel="nofollow">Seminar/Conference talks, participation</a> <br />
- </p>
-  </p>
+<br /><br />
 Recent Teaching:
 Fall 2019, SUSTech,  Algebra (master course)  <br />
 Fall 2018, Univ. of Helsinki, <a href="https://courses.helsinki.fi/en/mast31907/125184503"  rel="nofollow">Topics in Algebra</a> <br />
 Spring 2018, Univ. of Helsinki,  <a href="https://courses.helsinki.fi/en/dmast-202/122831686"  rel="nofollow">Introduction to elliptic curves and modular forms</a> <br />
 Spring 2017, Univ. of Helsinki,  <a href="https://wiki.helsinki.fi/pages/viewpage.action?pageId=206125053"  rel="nofollow">Elementary algebraic number theory</a> <br />
- </p>
-  </p>
+<br /><br />
 <a href="http://arxiv.org/abs/1505.02664"   rel="nofollow">book suggestion (for my students)</a>  <br />
 
- </p>
-  </p>
+<br /><br />
 
 <a href="http://arxiv.org/abs/1505.02664"   rel="nofollow">***</a>  <br />
 
