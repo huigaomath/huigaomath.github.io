@@ -11,13 +11,13 @@ p.big {
 
 .image-container {
     display: flex;
-    gap: 30px; /* 图片之间的间距 */
-    margin-left: 30px; /* 左边留白 */
+    gap: 30px;
+    margin-left: 10px;
 }
 
-.image-container img {
-    max-width: 100%;
-    height: auto;
+.image-container a {
+    display: block; /* 让链接作为块级元素 */
+    text-decoration: none; /* 移除链接下划线 */
 }
 
 </style>
@@ -43,9 +43,16 @@ p.big {
    </b> 
     <br />  <br />
     
+  <b> Poster: </b> Click to expand in new window.   <br />
+  <br />
+
     <div class="image-container">
-    <img src="poster_en.jpg" alt="First image" width="300">
-    <img src="poster_cn.jpg" alt="Second image" width="300">
+    <a href="poster_en.jpg" target="_blank">
+        <img src="poster_en.jpg" alt="First image" width="300">
+    </a>
+    <a href="poster_cn.jpg" target="_blank">
+        <img src="poster_cn.jpg" alt="Second image" width="300">
+    </a>
 </div>
     
     
