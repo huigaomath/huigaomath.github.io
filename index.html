@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,6 +59,50 @@
         .readable-section {
             line-height: 1.5;  
         }
+        
+        
+        
+   .prime-widget {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.prime-widget button {
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff; /* ← white font */
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+
+  background: linear-gradient(135deg, #90D5FF, #6fc5f5);
+  box-shadow: 0 3px 6px rgba(80, 140, 180, 0.25);
+}
+
+.prime-widget button:hover {
+  filter: brightness(0.98) saturate(1.05);
+}
+
+.prime-widget button:active {
+  box-shadow: 0 2px 4px rgba(80, 140, 180, 0.3);
+}
+
+.prime-output {
+  min-width: 120px;
+  padding: 4px 10px;
+  border: 1px dashed #90D5FF;
+  border-radius: 6px;
+  background: #f2faff;
+  font-weight: bold;
+  text-align: center;
+  color: #00334d;
+}
+
+
+
     </style>
 </head>
 <body>
@@ -458,6 +503,23 @@ Here is some incomplete list of neighbors: <br />
         <div id="tab3" class="tab-content">
         <font size="2.6px">
         
+        
+        <br />   
+        Click the blue button for the next <i>p</i>-day in Chinese date format: yyyy-mm-dd. <br />
+        
+        <br />  
+      <!-- Prime Day Widget -->
+<div class="prime-widget">
+  <button onclick="generatePrimeDate()">
+    Next <i>p</i>rime day
+  </button>
+  <span id="prime-output" class="prime-output">
+    <span style="color:#aaa;">Result here</span>
+  </span>
+</div>
+<br />  
+        
+        
             <font size="3"><font style="background-color:rgb(207,226,243)"> Co-organized  events </font></font></li>    <br />   
   <br />  
     <div class="readable-section">
@@ -709,5 +771,48 @@ https://its.westlake.edu.cn/info/1014/1047.htm
             evt.currentTarget.classList.add("active");
         }
     </script>
+
+
+
+<script>
+function isPrime(n) {
+  if (n < 2) return false;
+  if (n % 2 === 0) return n === 2;
+  const limit = Math.floor(Math.sqrt(n));
+  for (let i = 3; i <= limit; i += 2) {
+    if (n % i === 0) return false;
+  }
+  return true;
+}
+
+function formatDateNumber(date) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return Number(`${y}${m}${d}`);
+}
+
+function generatePrimeDate() {
+  const today = new Date();
+  const year = today.getFullYear();
+  let date = new Date(today);
+  const end = new Date(year, 11, 31);
+  const output = document.getElementById("prime-output");
+
+  while (date <= end) {
+    const n = formatDateNumber(date);
+    if (isPrime(n)) {
+      output.textContent = n;
+      return;
+    }
+    date.setDate(date.getDate() + 1);
+  }
+
+  output.textContent = "—";
+}
+</script>
+
+
+
 </body>
 </html>
